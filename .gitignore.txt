@@ -1,0 +1,13 @@
+# Data Base files
+*.db
+
+# log files
+*.log
+
+# target Directories 
+target/
+**/target/
+
+# bin Directories
+bin/
+**/bin/
